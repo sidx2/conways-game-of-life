@@ -12,5 +12,5 @@ git clone https://github.com/sidx2/conways-game-of-life
 cd conways-game-of-life
 ```
 ```
-Open the index.html file in your favourite browser
+index.html
 ```
